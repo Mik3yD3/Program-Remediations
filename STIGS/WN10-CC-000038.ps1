@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures that the camera's access is disabled from the lock screen.
+    This PowerShell script ensures that the WDigest Authentication is disabled.
 
 .NOTES
     Author          : Michael Albert
